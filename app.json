@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Hotel Booking App",
+    "slug": "hotel-booking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2B3467"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "hotelbooking"
+  }
+}
